@@ -1,4 +1,5 @@
 # ProjetoA3_StudentLife
 Integrantes do Grupo: Carlos Roberto, Matheus Marques, Gabriel Andrade, Gabriel Ventura, Kauê Miguel, Mauricio Rodrigues.
 
-Tema 2: Educação e Aprendizado (ODS 4): Criar um aplicativo educacional de reforço e material complementar para escolas ou instituições de treinamento. Armazenar dados sobre alunos, professores, usuário, disciplinas e material didático. E ter um administrador dos dados.
+Tema 2: Educação e Aprendizado (ODS 4): Criar um sistema educacional de adiministração para escolas ou instituições de treinamento. Gerenciar e Armazenar dados sobre os usuários, alunos, professores, disciplinas e material didático.
+Será feito no NetBeans e no MySQL Workbench.
